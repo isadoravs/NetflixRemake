@@ -5,4 +5,4 @@ App de listagem e visualização de detalhes de filmes inspirado no layout do Ne
 
 Desenvolvido com arquitetura MVVC, Retrofit, Glide
 
-![](git-source.gif)
+![](43r0o9.gif)
